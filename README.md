@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi 👋, I'm Irfan Awaludin
 
-<!--
-**irfanawaludin/irfanawaludin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Developer  
+🚀 Learning Laravel & JavaScript  
 
-Here are some ideas to get you started:
+## 🌐 Socials
+[LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/Irfan-awaludin))  
+[Instagram]([https://instagram.com](https://www.instagram.com/i4m.pan?igsh=MWR5eXJvbHBud2VzNw%3D%3D&utm_source=qr))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+![HTML](https://img.shields.io/badge/HTML5-orange)
+![CSS](https://img.shields.io/badge/CSS3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![PHP](https://img.shields.io/badge/PHP-purple)
+![Laravel](https://img.shields.io/badge/Laravel-red)
