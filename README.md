@@ -19,20 +19,16 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
-<a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-red?logo=instagram"></a>
+<a href="https://www.linkedin.com/in/irfan-awaludin-831251303/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/i4m.pan">
+<img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white">
+</a>
 </p>
+
 
 ---
 
-## 📈 Top Languages
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight">
-</p>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=USERNAME&color=blue">
-</p>
