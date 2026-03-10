@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Irfan Awaludin</h1>
-<h3 align="center">💻 Fullstack Web Developer | PHP • Laravel • JavaScript</h3>
+<h1 align="center">Hi, I'm Irfan Awaludin</h1>
+<h3 align="center">Fullstack Web Developer | PHP • Laravel • JavaScript</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile;Web+Developer;Laravel+Developer;Always+Learning+New+Things" />
@@ -9,7 +9,6 @@
 
 ## 🚀 About Me
 
-* 🌱 I’m currently learning **Laravel & JavaScript**
 * 💻 I love building **Web Applications**
 * 📚 Always learning **new technology**
 * ⚡ Fun fact: I love coding at night
