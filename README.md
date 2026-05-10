@@ -79,20 +79,20 @@ fun_fact   : I code best after midnight
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=irfanawaludin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanawaludin&layout=donut&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img width="60%" src="https://streak-stats.demolab.com?user=irfanawaludin&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=irfanawaludin&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&hide_title=true" />
+&nbsp;&nbsp;
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanawaludin&layout=pie&theme=github_dark&hide_border=true&hide_title=true" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=irfanawaludin&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img width="55%" src="https://streak-stats.demolab.com?user=irfanawaludin&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=ffffff10" />
+
+</div>
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=irfanawaludin&style=flat-square&color=blue&label=Profile+Views)
 
 </div>
