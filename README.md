@@ -78,20 +78,21 @@ fun_fact   : I code best after midnight
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=irfanawaludin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanawaludin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=irfanawaludin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanawaludin&layout=donut&theme=tokyonight&hide_border=true" />
+
 </div>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=irfanawaludin&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff"/>
-</div>
 
-<br/>
+<img width="60%" src="https://streak-stats.demolab.com?user=irfanawaludin&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+
+</div>
 
 <div align="center">
 
-![Profile Views](https://github.com/irfanawaludin)
+<img src="https://github-profile-trophy.vercel.app/?username=irfanawaludin&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=120&section=footer"/>
