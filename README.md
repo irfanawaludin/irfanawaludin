@@ -1,7 +1,6 @@
 <div align="center">
-# Irfan Awaludin
- 
-### Fullstack Developer
+<h1>Irfan Awaludin</h1>
+<h3>Fullstack Developer</h3>
  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfan-awaludin-831251303/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i4m.pan)
