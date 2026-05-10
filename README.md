@@ -17,9 +17,9 @@ name       : Irfan Awaludin
 role       : Fullstack Developer
 location   : Indonesia
 focus      : Full-Stack Developer | Building Scalable APIs & Interactive UI | Database Management | UI/UX
-learning   : React.js · Node.js · Express.js · MongoDB · System Design
+learning   : React.js · Node.js · Express.js · MongoDB · TypeScript · Next.js · PostgreSQL · Railway · Vercel
 interests  : Clean Code · Scalable Systems · Open Source
-fun_fact   : I code best after midnight ☕
+fun_fact   : I code best after midnight 
 ```
 
 <br/>
@@ -90,7 +90,7 @@ fun_fact   : I code best after midnight ☕
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=irfanawaludin&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://github.com/irfanawaludin)
 
 </div>
 
