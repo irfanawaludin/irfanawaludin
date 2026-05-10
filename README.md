@@ -1,11 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=Irfan%20Awaludin&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Web%20Developer&descAlignY=58&descSize=18&descColor=aaaaaa"/>
-
 <div align="center">
-
+# Irfan Awaludin
+ 
+### Fullstack Developer
+ 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfan-awaludin-831251303/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i4m.pan)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/irfanawaludin)
-
+ 
 </div>
 
 <br/>
