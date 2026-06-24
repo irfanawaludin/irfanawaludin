@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Irfan Awaludin
+# Hi, I'm Irfan Awaludin
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 
 Building modern, scalable, and user-friendly web applications.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/irfan-awaludin-831251303/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](http://www.linkedin.com/in/irfanawaludin-dev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/i4m.pan)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/irfanawaludin)
 
@@ -14,7 +14,7 @@ Building modern, scalable, and user-friendly web applications.
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```yaml
 Name      : Irfan Awaludin
@@ -28,13 +28,6 @@ Focus:
   - Database Management
   - UI/UX Implementation
 
-Currently Learning:
-  - Next.js
-  - TypeScript
-  - PostgreSQL
-  - System Design
-  - Deployment & DevOps
-
 Interests:
   - Building Scalable Applications
   - Clean Code
@@ -44,9 +37,9 @@ Interests:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🎨 Frontend
+### Frontend
 
 <p>
 
@@ -54,7 +47,7 @@ Interests:
 
 </p>
 
-### ⚙️ Backend
+### Backend
 
 <p>
 
@@ -62,7 +55,7 @@ Interests:
 
 </p>
 
-### 🗄️ Database
+### Database
 
 <p>
 
@@ -70,7 +63,7 @@ Interests:
 
 </p>
 
-### ☁️ Tools & Deployment
+### Tools & Deployment
 
 <p>
 
@@ -80,7 +73,7 @@ Interests:
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 ### 🔹 ZakatSight
 
@@ -100,7 +93,7 @@ Project management web application built with Laravel and MySQL.
 
 ---
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -118,13 +111,13 @@ Project management web application built with Laravel and MySQL.
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
-💼 LinkedIn → [www.linkedin.com/in/irfan-awaludin-831251303](http://www.linkedin.com/in/irfan-awaludin-831251303)
+LinkedIn → [www.linkedin.com/in/irfan-awaludin-831251303](http://www.linkedin.com/in/irfan-awaludin-831251303)
 
-📷 Instagram → @i4m.pan
+Instagram → @i4m.pan
 
-🐙 GitHub → github.com/irfanawaludin
+GitHub → github.com/irfanawaludin
 
 ---
 
