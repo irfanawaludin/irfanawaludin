@@ -113,11 +113,11 @@ Project management web application built with Laravel and MySQL.
 
 ## Let's Connect
 
-LinkedIn → [www.linkedin.com/in/irfan-awaludin-831251303](http://www.linkedin.com/in/irfan-awaludin-831251303)
+LinkedIn : [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](http://www.linkedin.com/in/irfanawaludin-dev)
 
-Instagram → @i4m.pan
+Instagram : [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/i4m.pan)
 
-GitHub → github.com/irfanawaludin
+GitHub : [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/irfanawaludin)
 
 ---
 
